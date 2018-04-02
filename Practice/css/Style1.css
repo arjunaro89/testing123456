@@ -1,0 +1,174 @@
+<style>
+
+
+.menu{
+    font-family: "Lato";
+    Font-size:16px;
+    float:left;
+    text-align:center;
+    color:grey;
+    width:100%;
+   
+}
+
+.menu ul{
+    display:block;
+    font-family: "Lato";
+    Font-size:16px;
+    text-align:center;
+    color:grey;
+    display:block;
+    width:100%;
+}
+
+.menu ul li{
+    font-family: "Lato";
+    Font-size:16px;
+    text-align:center;
+    
+    color:grey;
+    display:block;
+    float:left; 
+    margin-right:30px;
+}
+
+
+#tsku{
+    
+    font-family="Lora"; 
+    Font-size:16px; 
+    color:grey; 
+    font-weight:300; 
+    text-align:center; 
+    padding-left:20%;
+    padding-right:20%; 
+    padding-bottom:5%; 
+    padding-top:5%;
+    line-height:1.5em;
+    
+    
+}
+
+
+.heading{
+    font-family="Lato"; 
+    Font-size:24px; 
+    color:black; 
+    font-weight:500; 
+    text-align:center; 
+    padding-top:2%; 
+    padding-bottom:1%; 
+}
+
+
+.snip0079 {
+  position: relative;
+  font-size: 40px;
+  border: 1px solid #000000;
+  color: #ffffff;
+  width: 75px;
+  margin: 40px;
+  height: 75px;
+  line-height: 75px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.snip0079 * {
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+.snip0079:before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.snip0079:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #1a1a1a;
+  content: '';
+  z-index: -1;
+  border-radius: 50%;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  -webkit-transform: scale(0.98);
+  transform: scale(0.98);
+}
+.snip0079:hover,
+.snip0079 .hover {
+  color: #000000;
+}
+.snip0079:hover:after,
+.snip0079 .hover:after {
+  -webkit-transform: scale(0);
+  transform: scale(0);
+  opacity: 0;
+}
+.snip0079:hover.blue,
+.snip0079 .hover.blue {
+  color: #2980b9;
+}
+.snip0079:hover.yellow,
+.snip0079 .hover.yellow {
+  color: #e67e22;
+}
+.snip0079:hover.green,
+.snip0079 .hover.green {
+  color: #27ae60;
+}
+.snip0079:hover.navy,
+.snip0079 .hover.navy {
+  color: #34495e;
+}
+.snip0079:hover.red,
+.snip0079 .hover.red {
+  color: #c0392b;
+}
+.snip0079:hover.silver,
+.snip0079 .hover.silver {
+  color: #bdc3c7;
+}
+.snip0079.blue {
+  border: 2px solid #2980b9;
+}
+.snip0079.blue:after {
+  background: #409ad5;
+}
+.snip0079.yellow {
+  border: 2px solid #e67e22;
+}
+.snip0079.yellow:after {
+  background: #eb9950;
+}
+.snip0079.green {
+  border: 2px solid #27ae60;
+}
+.snip0079.green:after {
+  background: #36d278;
+}
+.snip0079.navy {
+  border: 2px solid #34495e;
+}
+.snip0079.navy:after {
+  background: #46627f;
+}
+.snip0079.red {
+  border: 2px solid #c0392b;
+}
+.snip0079.red:after {
+  background: #d65548;
+}
+.snip0079.silver {
+  border: 2px solid #bdc3c7;
+}
+.snip0079.silver:after {
+  background: #d9dcde;
+}
+
+
+</style>
